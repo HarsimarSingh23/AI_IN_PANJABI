@@ -38,3 +38,8 @@ python3
 11. ਹਮੇਸ਼ਾ Python ਦਾ ਨਵਾਂ version download ਕਰੋ ਤਾਂ ਜੋ ਤੁਹਾਨੂੰ ਨਵੇਂ features ਅਤੇ security updates ਮਿਲ ਸਕਣ। ਤੁਸੀਂ Python ਦੀ official website ਤੋਂ updates check ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ latest version download ਕਰ ਸਕਦੇ ਹੋ: https://www.python.org/downloads/
 12. ਜੇ ਤੁਸੀਂ Python development ਲਈ ਕੋਈ Integrated Development Environment (IDE) ਵਰਤਣਾ ਪਸੰਦ ਕਰਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ PyCharm, Visual Studio Code, ਜਾਂ Jupyter Notebook ਵਰਗੇ popular IDEs install ਕਰ ਸਕਦੇ ਹੋ। ਇਹ IDEs ਤੁਹਾਡੇ coding experience ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ extra features ਅਤੇ tools ਦਿੰਦੇ ਹਨ।
 13. ਆਪਣੀ Python installation ਨੂੰ up to date ਰੱਖੋ ਅਤੇ ਸਮੇਂ-ਸਮੇਂ ਉੱਤੇ updates check ਕਰਦੇ ਰਹੋ ਤਾਂ ਜੋ ਤੁਹਾਨੂੰ ਨਵੇਂ features ਅਤੇ security patches ਮਿਲਦੇ ਰਹਿਣ। ਤੁਸੀਂ ਆਪਣੀਆਂ programming capabilities ਵਧਾਉਣ ਲਈ ਹੋਰ Python libraries ਅਤੇ frameworks ਵੀ explore ਕਰ ਸਕਦੇ ਹੋ। Happy coding!
+
+
+
+## ਸ਼ੁਰੂ ਕਰਨ ਅਤੇ ਬਹੁਤ ਆਸਾਨੀ ਨਾਲ ਸਿੱਖਣ ਲਈ ਇਸ ਵੈੱਬਸਾਈਟ 'ਤੇ ਜਾਓ -
+## https://www.programiz.com/python-programming/online-compiler/
